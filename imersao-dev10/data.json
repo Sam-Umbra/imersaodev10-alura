@@ -1,0 +1,139 @@
+[
+    {
+        "name": "Clair Obscur: Expedition 33",
+        "studio": "Sandfall Interactive",
+        "genres": ["RPG", "Ação", "Aventura", "Indie"],
+        "release_date": "2023-08-28",
+        "image": "https://upload.wikimedia.org/wikipedia/pt/d/d7/Clair_Obscur_Expedition_33.png",
+        "description": "Anualmente, a Pintora amaldiçoa uma idade, fazendo seus portadores desaparecerem. Este ano, será a idade '33'. Junte-se a Gustave em uma busca desesperada para quebrar este ciclo de morte em um RPG de fantasia com combate em turnos reativo.",
+        "site": "https://www.expedition33.com/"
+    },
+    {
+        "name": "Death Stranding 2: On The Beach",
+        "studio": "Kojima Productions",
+        "genres": ["Ação", "Aventura"],
+        "release_date": "2025-06-26",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2711/cbc6c3135660ec68eacc766959a766b36d7ce3fa6010ca88.png",
+        "description": "Após os eventos do primeiro jogo, Sam e Fragile expandem a Rede Quiral para além das fronteiras conhecidas. A bordo da nave 'Dhv Magellan', eles enfrentam um futuro ainda mais sombrio, com novas ameaças sobrenaturais que impactarão o destino da humanidade.",
+        "site": "https://www.kojimaproductions.jp/en/death-stranding-2-on-the-beach-official-website"
+    },
+    {
+        "name": "Hollow Knight: Silksong",
+        "studio": "Team Cherry",
+        "genres": ["Metroidvania", "Ação", "Aventura", "Plataforma", "Indie"],
+        "release_date": "2025-09-04",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/1030300/header.jpg?t=1662310103",
+        "description": "Jogue como Hornet, a princesa-protetora de Hallownest, capturada e levada a um novo reino. Lute contra inimigos e resolva mistérios em uma peregrinação mortal até o pico do reino, descobrindo novas habilidades e desvendando segredos antigos.",
+        "site": "https://store.steampowered.com/app/1030300/Hollow_Knight_Silksong/"
+    },
+    {
+        "name": "Hades II",
+        "studio": "Supergiant Games",
+        "genres": ["Roguelike", "RPG", "Ação"],
+        "release_date": "2025-09-25",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/1145350/header.jpg?t=1715016827",
+        "description": "Como a Princesa Imortal do Submundo, enfrente as forças do Titã do Tempo com o apoio do Olimpo. Explore um mundo mitológico maior, use armas lendárias com magia ancestral e interaja com dezenas de personagens em uma história envolvente.",
+        "site": "https://www.supergiantgames.com/games/hades-ii/"
+    },
+    {
+        "name": "Donkey Kong Bananza",
+        "studio": "Nintendo EPD",
+        "genres": ["Plataforma"],
+        "release_date": "2025-07-17",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIrrp6zU4HylgBF3RzIggG7ZhVtoJZjS-56A&s",
+        "description": "Os Snowmads congelaram a Ilha Donkey Kong. Junte-se aos Kongs para recuperar seu lar, viajando por diversas ilhas em uma aventura de plataforma clássica, cheia de segredos e fases desafiadoras.",
+        "site": "https://www.nintendo.com/"
+    },
+    {
+        "name": "Kingdom Come: Deliverance II",
+        "studio": "Warhorse Studios",
+        "genres": ["RPG", "Ação", "Mundo Aberto"],
+        "release_date": "2025-02-04",
+        "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/3/32/Kingdom_Come_Deliverance_II.jpg/250px-Kingdom_Come_Deliverance_II.jpg",
+        "description": "A história de Henry de Skalitz continua em uma jornada épica de vingança e traição. Vá da forja à corte dos reis em um mundo medieval dilacerado pela guerra civil. Explore a perigosa Boêmia do século XV neste RPG de mundo aberto realista e imersivo.",
+        "site": "https://www.xbox.com/pt-BR/games/store/kingdom-come-deliverance-ii/9P71X67R1234"
+    }
+,
+    {
+        "name": "Elden Ring",
+        "studio": "FromSoftware",
+        "genres": ["RPG", "Ação", "Mundo Aberto"],
+        "release_date": "2022-02-25",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/1245620/header.jpg",
+        "description": "Levante-se, Maculado, e seja guiado pela graça para brandir o poder do Anel Prístino e se tornar um Lorde Prístino nas Terras Intermédias. Um vasto mundo de fantasia sombria criado por Hidetaka Miyazaki e George R. R. Martin.",
+        "site": "https://en.bandainamcoent.eu/elden-ring"
+    },
+    {
+        "name": "God of War Ragnarök",
+        "studio": "Santa Monica Studio",
+        "genres": ["Ação", "Aventura"],
+        "release_date": "2022-11-09",
+        "image": "https://upload.wikimedia.org/wikipedia/pt/a/a5/God_of_War_Ragnar%C3%B6k_capa.jpg",
+        "description": "Kratos e Atreus embarcam em uma jornada mítica pelos Nove Reinos em busca de respostas enquanto as forças asgardianas se preparam para a batalha profetizada que causará o fim do mundo. Uma aventura épica sobre o vínculo entre pai e filho.",
+        "site": "https://www.playstation.com/pt-br/games/god-of-war-ragnarok/"
+    },
+    {
+        "name": "It Takes Two",
+        "studio": "Hazelight Studios",
+        "genres": ["Plataforma", "Aventura", "Cooperativo"],
+        "release_date": "2021-03-26",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/1426210/header.jpg",
+        "description": "Embarque na jornada mais maluca da sua vida em It Takes Two. Convide um amigo para se juntar de graça com o Passe de Amigo e trabalhem juntos em uma enorme variedade de desafios de jogabilidade inovadores e divertidos.",
+        "site": "https://www.ea.com/games/it-takes-two"
+    },
+    {
+        "name": "Ghost of Tsushima",
+        "studio": "Sucker Punch Productions",
+        "genres": ["Ação", "Aventura", "Mundo Aberto"],
+        "release_date": "2020-07-17",
+        "image": "https://sm.ign.com/ign_br/cover/g/ghost-of-t/ghost-of-tsushima-the-movie_8n9r.jpg",
+        "description": "No final do século XIII, o império mongol devastou nações inteiras em sua campanha para conquistar o Oriente. A Ilha de Tsushima é tudo o que resta entre o Japão e uma enorme invasão mongol. Torne-se o Fantasma e salve seu povo.",
+        "site": "https://www.playstation.com/pt-br/games/ghost-of-tsushima/"
+    },
+    {
+        "name": "The Last of Us Part II",
+        "studio": "Naughty Dog",
+        "genres": ["Ação", "Aventura", "Survival Horror"],
+        "release_date": "2020-06-19",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202010/2618/itbSm3suGHSSHIpmu9CCPBRy.jpg",
+        "description": "Cinco anos após sua perigosa jornada pelos Estados Unidos pós-pandêmicos, Ellie e Joel se estabeleceram em Jackson, Wyoming. Quando um evento violento interrompe sua paz, Ellie embarca em uma jornada implacável para fazer justiça.",
+        "site": "https://www.playstation.com/pt-br/games/the-last-of-us-part-ii/"
+    }
+,
+    {
+        "name": "Sekiro: Shadows Die Twice",
+        "studio": "FromSoftware",
+        "genres": ["Ação", "Aventura"],
+        "release_date": "2019-03-22",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/814380/header.jpg",
+        "description": "Explore o Japão Sengoku do final do século XVI. Como o 'lobo de um braço só', você é um guerreiro desonrado resgatado da beira da morte. Proteja um jovem lorde e enfrente inimigos cruéis em um mundo de conflitos constantes.",
+        "site": "https://www.sekirothegame.com/"
+    },
+    {
+        "name": "Red Dead Redemption 2",
+        "studio": "Rockstar Games",
+        "genres": ["Ação", "Aventura", "Mundo Aberto"],
+        "release_date": "2018-10-26",
+        "image": "https://cdn.akamai.steamstatic.com/steam/apps/1174180/header.jpg",
+        "description": "América, 1899. O fim da era do Velho Oeste começou. Após um assalto dar errado, Arthur Morgan e a gangue Van der Linde são forçados a fugir. Com agentes federais em seu encalço, a gangue precisa roubar e lutar para sobreviver.",
+        "site": "https://www.rockstargames.com/reddeadredemption2/"
+    },
+    {
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "studio": "Nintendo EPD",
+        "genres": ["Ação", "Aventura", "Mundo Aberto", "RPG"],
+        "release_date": "2017-03-03",
+        "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/0/0f/Legend_of_Zelda_Breath_of_the_Wild_capa.png/270px-Legend_of_Zelda_Breath_of_the_Wild_capa.png",
+        "description": "Esqueça tudo que você sabe sobre os jogos da série The Legend of Zelda. Viaje por vastos campos, florestas e picos de montanhas enquanto descobre o que aconteceu com o reino de Hyrule nesta deslumbrante aventura a céu aberto.",
+        "site": "https://www.zelda.com/breath-of-the-wild/"
+    },
+    {
+        "name": "Overwatch",
+        "studio": "Blizzard Entertainment",
+        "genres": ["Ação", "Tiro em Equipe"],
+        "release_date": "2016-05-24",
+        "image": "https://upload.wikimedia.org/wikipedia/pt/4/49/Overwatch_2.jpg",
+        "description": "Junte-se à luta pelo futuro em um jogo de tiro em equipe 6v6. Escolha seu herói entre um elenco diversificado de soldados, cientistas, aventureiros e anômalos. Dobre o tempo, desafie a física e libere uma variedade de poderes e armas extraordinárias.",
+        "site": "https://overwatch.blizzard.com/"
+    }
+]

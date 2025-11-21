@@ -1,0 +1,20 @@
+{
+  "name": "code-generator",
+  "version": "1.0.0",
+  "description": "Gerador de dados de jogos usando a API do Gemini.",
+  "main": "generator.js",
+  "type": "module",
+  "scripts": {
+    "start": "node -r dotenv/config generator.js"
+  },
+  "keywords": [
+    "gemini",
+    "api",
+    "generator"
+  ],
+  "author": "Sam-Umbra",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.6.1"
+  }
+}
